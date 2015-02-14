@@ -33,6 +33,17 @@
   },
   "work": [
     {
+      "company": "SecretFancy",
+      "position": "Founder, Developer",
+      "website": "http://secretfancy.com",
+      "summary": "Over the three days leading up to Valentine's Day 2015, I developed an app that allows 'secret admirers' to share their feelings, and provide a mechanism through which they could be matched with the recipient only if the feeling is mututal.",
+      "highlights": [
+        "Concepted, designed, and developed a production-ready app in three days",
+        "Used Backbone, RequireJS, Node, and MongoDB to create a full-stack JS app",
+        "Leveraged SendGrid and Twilio to send messages via email and SMS"
+      ]
+    },
+    {
       "company": "HubSpot",
       "position": "Front-end Developer",
       "website": "http://hubspot.com",
@@ -97,19 +108,6 @@
         "Developed CMS-based sites using WordPress, ExpressionEngine",
         "Facilitated all communications and presentations with clients",
         "Managed projects; identified and assigned project tasks"
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "company": "SecretFancy",
-      "position": "Founder, Developer",
-      "website": "http://secretfancy.com",
-      "summary": "Over the three days leading up to Valentine's Day 2015, I developed an app that allows 'secret admirers' to share their feelings, and provide a mechanism through which they could be matched with the recipient only if the feeling is mututal.",
-      "highlights": [
-        "Concepted, designed, and developed a production-ready app in three days",
-        "Used Backbone, RequireJS, Node, and MongoDB to create a full-stack JS app",
-        "Leveraged SendGrid and Twilio to send messages via email and SMS"
       ]
     },
     {
