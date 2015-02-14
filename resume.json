@@ -1,130 +1,198 @@
 {
   "basics": {
     "name": "Brandon Ferioli",
-    "label": "Programmer",
+    "label": "UI/UX Developer",
     "picture": "",
     "email": "b@ferio.li",
-    "phone": "(912) 555-4321",
-    "website": "http://richardhendricks.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "phone": "(505) 205-8452",
+    "website": "http://brandonferioli.com",
+    "summary": "I live for the thrill of taking web products through the full cycle: Ideation → Validation → Design → Implementation → Feedback → Iteration. My core strengths are in UI/UX development, as well as project management and team leadership. I love any opportunity to have a significant hand and voice in shaping an idea into a fully formed product.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "2 Mead Street, Apt 1",
+      "postalCode": "MA 02134",
+      "city": "Massachusetts",
       "countryCode": "US",
-      "region": "California"
+      "region": "Massachusetts"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "network": "GitHub",
+        "username": "bferioli",
+        "url": "https://github.com/bferioli"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "LinkedIn",
+        "url": "www.linkedin.com/pub/brandon-ferioli/27/182/891/en"
+      },
+      {
+        "network": "Twitter",
+        "username": "bferioli",
+        "url": "http://twitter.com/bferioli"
       }
     ]
   },
   "work": [
     {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "company": "HubSpot",
+      "position": "Front-end Developer",
+      "website": "http://hubspot.com",
+      "startDate": "2014-08-04",
+      "endDate": "2014-11-23",
+      "summary": "As a front-end engineer on the HubSpot Reporting product, I had the opportunity to develop engaging data-driven experiences to help the customer understand and visualize their marketing outcomes.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Use CoffeeScript and Backbone.js to develop front-end components for Reports product",
+        "Create exceptional user interfaces and experiences using HTML5, CSS3 and Sass",
+        "Collaborate with product manager, tech lead, and other team members to identify and tackle goals"
+      ]
+    },
+    {
+      "company": "MyFonts",
+      "position": "Front-end Developer",
+      "website": "http://myfonts.com",
+      "startDate": "2013-04-06",
+      "endDate": "2014-07-28",
+      "summary": "As the sole front-end developer on the MyFonts team, I had the opportunity to take ownership of a variety of front-end projects on a large scale e-commerce site with $20M+ annual revenue.",
+      "highlights": [
+        "Developed and maintained major site components using JS, PHP and Smarty templates",
+        "Developed JavaScript-based tool for previewing live webfonts",
+        "Developed a JavaScript bin-packing algorithm to build a staggered image tile layout",
+        "Implemented Backbone.js based shopping cart"
+      ]
+    },
+    {
+      "company": "Tuatara",
+      "position": "UI Developer",
+      "website": "http://gilapad.com",
+      "startDate": "2012-05-12",
+      "endDate": "2013-04-01",
+      "summary": "As the UI Developer for Tuatara's flagship GilaPad e-textbook and learning platform, I was able to bridge the gap between design and engineering and create engaging reading and note-taking experiences.",
+      "highlights": [
+        "Developed e-reader and notepad UI components using JS and Handlebars templates",
+        "Developed rich WYSIWYG text editor for notepad component",
+        "Developed e-book store UI using Ember.js and Handlebars templates"
+      ]
+    },
+    {
+      "company": "SantaFe.com",
+      "position": "UI Developer",
+      "website": "http://santafe.com",
+      "startDate": "2011-10-03",
+      "endDate": "2012-05-04",
+      "summary": "As one of two front-end developers on the SantaFe.com, I had the opportunity to develop information rich experiences for the Santa Fe, New Mexico based city tourism website.",
+      "highlights": [
+        "Designed UI wireframes and mockups",
+        "Developed ExpressionEngine templates",
+        "Created jQuery Mobile based mobile web app"
+      ]
+    },
+    {
+      "company": "Ipsum Creative",
+      "position": "Founder, Principal Front-end Developer",
+      "website": "http://ipsumcreative.com",
+      "startDate": "2007-06-01",
+      "endDate": "2011-10-03",
+      "summary": "As the founder and principal front-end developer for a small web design and development firm, I had the opportunity to manage projects collaborate with team members to develop web products for a variety of local clients.",
+      "highlights": [
+        "Developed sites and apps using HTML, CSS, JavaScript and jQuery",
+        "Developed CMS-based sites using WordPress, ExpressionEngine",
+        "Facilitated all communications and presentations with clients",
+        "Managed projects; identified and assigned project tasks"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "company": "SecretFancy",
+      "position": "Founder, Developer",
+      "website": "http://secretfancy.com",
+      "summary": "Over the three days leading up to Valentine's Day 2015, I developed an app that allows 'secret admirers' to share their feelings, and provide a mechanism through which they could be matched with the recipient only if the feeling is mututal.",
+      "highlights": [
+        "Concepted, designed, and developed a production-ready app in three days",
+        "Used Backbone, RequireJS, Node, and MongoDB to create a full-stack JS app",
+        "Leveraged SendGrid and Twilio to send messages via email and SMS"
+      ]
+    },
+    {
+      "company": "General Assembly",
+      "position": "Expert In Residence",
+      "website": "http://generalassemb.ly",
+      "summary": "As an expert in residence for General Assembly's popular FEWD (Front End Web Development) course, I have the opportunity to work hands-on with students to foster engagement and help them acheive mastery.",
+      "highlights": [
+        "Provided hands-on support and guidance to students",
+        "Fostered and maintained ongoing relationships with students",
+        "Facilitated the distribution and assessment of course assignments and materials"
+      ]
+    },
+    {
+      "company": "General Assembly",
+      "position": "Workshop Instructor",
+      "website": "http://generalassemb.ly",
+      "summary": "As the developer and instructor for 'Creative Process for Coders' and 'ABCs of Web Typography' workshops, I had the opportunity to share my knowlege and help students master these specialized subjects.",
+      "highlights": [
+        "Created all slides and course materials for workshops",
+        "Provided hands-on support and guidance to students",
+        "Fostered and maintained ongoing relationships with students"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "organization": "JDRF",
+      "position": "Team Leader",
+      "website": "http://jdrf.org/",
+      "startDate": "2008-01-01",
+      "endDate": "2009-01-01",
+      "summary": "Lead a fundraising group in JDRF's annual Walk for a Cure, acheiving the second highest team fundraising goal.",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Awarded 'Silver Level of Achievement' two years in a row"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
+      "institution": "Self-taught",
+      "area": "Front-end Development",
+      "studyType": "Online Learning",
       "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
+        "Anatomy of Backbone.js",
+        "Assembling Sass",
+        "CoffeeScript",
+        "Real-time Web with Node.js",
+        "Responsive Web Design"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Front-end Development",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
+        "HTML5/CSS3",
+        "JavaScript",
+        "jQuery",
+        "Backbone",
+        "RequireJS",
+        "Node.js",
+        "Git & GitHub",
+        "Command Line"
       ]
-    },
-    {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Fitness",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "Running",
+        "Core Strength",
+        "Yoga",
+        "Cycling"
       ]
     }
   ],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Nick Cochrane - Google",
+      "reference": "I’ve known and worked with Brandon for a number of years spanning projects that range from simple website design for well known universities in the Boston area to complex web applications for startups. In the time I’ve known Brandon I’ve always been impressed with his ability to grasp new concepts and push into new territory. He has a keen eye for design and a solid understanding of user experience that play well with his ability in development. His ability to work as part of a team while still being able to self direct will be an asset to any team that he joins."
     }
   ]
 }
