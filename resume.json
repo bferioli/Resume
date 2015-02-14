@@ -128,8 +128,8 @@
       "organization": "JDRF",
       "position": "Team Leader",
       "website": "http://jdrf.org/",
-      "startDate": "2008",
-      "endDate": "2009",
+      "startDate": "2008-07-01",
+      "endDate": "2009-07-01",
       "summary": "Lead a fundraising group in JDRF's annual Walk for a Cure, acheiving the second highest team fundraising goal.",
       "highlights": [
         "Awarded 'Silver Level of Achievement' two years in a row"
@@ -141,8 +141,7 @@
       "institution": "Self-taught",
       "area": "Front-end Development",
       "studyType": "Online Learning",
-      "startDate": "2006",
-      "endDate": "Always",
+      "startDate": "2006-01-01",
       "courses": [
         "Anatomy of Backbone.js",
         "Assembling Sass",
