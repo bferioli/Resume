@@ -6,13 +6,12 @@
     "email": "b@ferio.li",
     "phone": "(505) 205-8452",
     "website": "http://brandonferioli.com",
-    "summary": "I live for the thrill of taking web products through the full cycle: Ideation → Validation → Design → Implementation → Feedback → Iteration. My core strengths are in UI/UX development, as well as project management and team leadership. I love any opportunity to have a significant hand and voice in shaping an idea into a fully formed product.",
+    "summary": "I live for the thrill of taking web products through the full cycle:\n\nIdeation → Validation → Design → Implementation → Feedback → Iteration.\n\nMy core strengths are in UI/UX development, as well as project management and team leadership. I love any opportunity to have a significant hand and voice in shaping an idea into a fully formed product.",
     "location": {
       "address": "2 Mead Street, Apt 1",
+      "city": "Allston",
       "postalCode": "MA 02134",
-      "city": "Massachusetts",
-      "countryCode": "US",
-      "region": "Massachusetts"
+      "countryCode": "US"
     },
     "profiles": [
       {
@@ -36,6 +35,8 @@
       "company": "SecretFancy",
       "position": "Founder, Developer",
       "website": "http://secretfancy.com",
+      "startDate": "Feb 2015",
+      "endDate": "Present",
       "summary": "Over the three days leading up to Valentine's Day 2015, I developed an app that allows 'secret admirers' to share their feelings, and provide a mechanism through which they could be matched with the recipient only if the feeling is mututal.",
       "highlights": [
         "Concepted, designed, and developed a production-ready app in three days",
@@ -44,11 +45,24 @@
       ]
     },
     {
+      "company": "General Assembly",
+      "position": "Expert In Residence",
+      "website": "http://generalassemb.ly",
+      "startDate": "Jan 2015",
+      "endDate": "Present",
+      "summary": "As an expert in residence for General Assembly's popular FEWD (Front End Web Development) course, I have the opportunity to work hands-on with students to foster engagement and help them acheive mastery.",
+      "highlights": [
+        "Provided hands-on support and guidance to students",
+        "Fostered and maintained ongoing relationships with students",
+        "Facilitated the distribution and assessment of course assignments and materials"
+      ]
+    },
+    {
       "company": "HubSpot",
       "position": "Front-end Developer",
       "website": "http://hubspot.com",
-      "startDate": "2014-08-04",
-      "endDate": "2014-11-23",
+      "startDate": "Aug 2014",
+      "endDate": "Nov 2014",
       "summary": "As a front-end engineer on the HubSpot Reporting product, I had the opportunity to develop engaging data-driven experiences to help the customer understand and visualize their marketing outcomes.",
       "highlights": [
         "Use CoffeeScript and Backbone.js to develop front-end components for Reports product",
@@ -60,8 +74,8 @@
       "company": "MyFonts",
       "position": "Front-end Developer",
       "website": "http://myfonts.com",
-      "startDate": "2013-04-06",
-      "endDate": "2014-07-28",
+      "startDate": "Apr 2013",
+      "endDate": "July 2014",
       "summary": "As the sole front-end developer on the MyFonts team, I had the opportunity to take ownership of a variety of front-end projects on a large scale e-commerce site with $20M+ annual revenue.",
       "highlights": [
         "Developed and maintained major site components using JS, PHP and Smarty templates",
@@ -74,8 +88,8 @@
       "company": "Tuatara",
       "position": "UI Developer",
       "website": "http://gilapad.com",
-      "startDate": "2012-05-12",
-      "endDate": "2013-04-01",
+      "startDate": "May 2012",
+      "endDate": "Apr 2013",
       "summary": "As the UI Developer for Tuatara's flagship GilaPad e-textbook and learning platform, I was able to bridge the gap between design and engineering and create engaging reading and note-taking experiences.",
       "highlights": [
         "Developed e-reader and notepad UI components using JS and Handlebars templates",
@@ -87,8 +101,8 @@
       "company": "SantaFe.com",
       "position": "UI Developer",
       "website": "http://santafe.com",
-      "startDate": "2011-10-03",
-      "endDate": "2012-05-04",
+      "startDate": "Oct 2011",
+      "endDate": "May 2012",
       "summary": "As one of two front-end developers on the SantaFe.com, I had the opportunity to develop information rich experiences for the Santa Fe, New Mexico based city tourism website.",
       "highlights": [
         "Designed UI wireframes and mockups",
@@ -100,36 +114,14 @@
       "company": "Ipsum Creative",
       "position": "Founder, Principal Front-end Developer",
       "website": "http://ipsumcreative.com",
-      "startDate": "2007-06-01",
-      "endDate": "2011-10-03",
+      "startDate": "Jul 2007",
+      "endDate": "Oct 2011",
       "summary": "As the founder and principal front-end developer for a small web design and development firm, I had the opportunity to manage projects collaborate with team members to develop web products for a variety of local clients.",
       "highlights": [
         "Developed sites and apps using HTML, CSS, JavaScript and jQuery",
         "Developed CMS-based sites using WordPress, ExpressionEngine",
         "Facilitated all communications and presentations with clients",
         "Managed projects; identified and assigned project tasks"
-      ]
-    },
-    {
-      "company": "General Assembly",
-      "position": "Expert In Residence",
-      "website": "http://generalassemb.ly",
-      "summary": "As an expert in residence for General Assembly's popular FEWD (Front End Web Development) course, I have the opportunity to work hands-on with students to foster engagement and help them acheive mastery.",
-      "highlights": [
-        "Provided hands-on support and guidance to students",
-        "Fostered and maintained ongoing relationships with students",
-        "Facilitated the distribution and assessment of course assignments and materials"
-      ]
-    },
-    {
-      "company": "General Assembly",
-      "position": "Workshop Instructor",
-      "website": "http://generalassemb.ly",
-      "summary": "As the developer and instructor for 'Creative Process for Coders' and 'ABCs of Web Typography' workshops, I had the opportunity to share my knowlege and help students master these specialized subjects.",
-      "highlights": [
-        "Created all slides and course materials for workshops",
-        "Provided hands-on support and guidance to students",
-        "Fostered and maintained ongoing relationships with students"
       ]
     }
   ],
