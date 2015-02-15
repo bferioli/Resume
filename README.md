@@ -22,7 +22,7 @@ __Highlights:__
 * Concepted, designed, and developed a production-ready app in three days
 * Used Backbone, RequireJS, Node, and MongoDB to create a full-stack JS app
 * Leveraged SendGrid and Twilio to send messages via email and SMS
-* 
+
 
 ####[General Assembly](http://generalassemb.ly) - Expert In Residence (Jan 2015 - Present)
 
@@ -33,6 +33,7 @@ __Highlights:__
 * Fostered and maintained ongoing relationships with students
 * Facilitated the distribution and assessment of course assignments and materials
 
+
 ####[HubSpot](http://hubspot.com) - Front-end Developer (Aug 2014 - Nov 2014)
 
 As a front-end engineer on the HubSpot Reporting product, I had the opportunity to develop engaging data-driven experiences to help the customer understand and visualize their marketing outcomes.
@@ -41,6 +42,7 @@ __Highlights:__
 * Use CoffeeScript and Backbone.js to develop front-end components for Reports product
 * Create exceptional user interfaces and experiences using HTML5, CSS3 and Sass
 * Collaborate with product manager, tech lead, and other team members to identify and tackle goals
+
 
 ####[MyFonts](http://myfonts.com) - Front-end Developer (Apr 2013 - Jul 2014)
 
@@ -52,6 +54,7 @@ __Highlights:__
 * Developed a JavaScript bin-packing algorithm to build a staggered image tile layout
 * Implemented Backbone.js based shopping cart
 
+
 ####[Tuatara](http://gilapad.com) - UI Developer (May 2012 — March 2013)
 
 As the UI Developer for Tuatara's flagship GilaPad e-textbook and learning platform, I was able to bridge the gap between design and engineering and create engaging reading and note-taking experiences.
@@ -61,6 +64,7 @@ __Highlights:__
 * Developed rich WYSIWYG text editor for notepad component
 * Developed e-book store UI using Ember.js and Handlebars templates
 
+
 ####[SantaFe.com](http://santafe.com) - UI Developer (Oct 2011 - May 2012)
 
 As one of two front-end developers on the SantaFe.com, I had the opportunity to develop information rich experiences for the Santa Fe, New Mexico based city tourism website.
@@ -69,6 +73,7 @@ __Highlights:__
 * Designed UI wireframes and mockups
 * Developed ExpressionEngine templates
 * Created jQuery Mobile based mobile web app
+
 
 ####[Ipsum Creative](http://ipsumcreative.com) - Founder, Principal Front-end Developer (Jul 2007 - Oct 2011)
 
