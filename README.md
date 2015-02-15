@@ -84,7 +84,7 @@ __Highlights:__
 
 ### Volunteer
 
-[JDRF](http://jdrf.org/) - Team Leader (2008 - 2009)
+#### [JDRF](http://jdrf.org/) - Team Leader (2008 - 2009)
 
 Lead a fundraising group in JDRF's annual Walk for a Cure, acheiving the second highest team fundraising goal.
 
@@ -94,8 +94,7 @@ __Highlights:__
 
 ### Education
 
-#### Self-taught
-
+##### Self-taught
 My skills are largely self-taught and have been enhanced by my experience in the industry. I am constantly learning and striving to expand my skill-set. Resources I have used include:
 
 * Anatomy of Backbone.js
@@ -115,11 +114,11 @@ My skills are largely self-taught and have been enhanced by my experience in the
 * Node.js
 * Git & GitHub
 * Command Line
-* 
+
 
 ### Interests
 
-####Fitness
+##### Fitness
 
 * Running
 * Core Strength
@@ -129,6 +128,6 @@ My skills are largely self-taught and have been enhanced by my experience in the
 
 ### References
 
-#### Nick Cochrane - Google
+##### Nick Cochrane - Google
 
 I’ve known and worked with Brandon for a number of years spanning projects that range from simple website design for well known universities in the Boston area to complex web applications for startups. In the time I’ve known Brandon I’ve always been impressed with his ability to grasp new concepts and push into new territory. He has a keen eye for design and a solid understanding of user experience that play well with his ability in development. His ability to work as part of a team while still being able to self direct will be an asset to any team that he joins.
