@@ -6,7 +6,7 @@
     "email": "b@ferio.li",
     "phone": "(505) 205-8452",
     "website": "http://brandonferioli.com",
-    "summary": "I live for the thrill of taking web products through the full cycle from ideation to implementation. My core strengths are in UI/UX development, as well as project management and team leadership. I love any opportunity to have a significant hand and voice in shaping an idea into a fully formed product.",
+    "summary": "I live for the thrill of developing engaging web products and experiences. My core strengths are in UI/UX development, project management, and team leadership. I love any opportunity to have a significant hand and voice in shaping an idea into a fully formed product.",
     "location": {
       "address": "2 Mead Street, Apt 1",
       "city": "Allston",
@@ -36,7 +36,7 @@
       "position": "Founder, Developer",
       "website": "http://secretfancy.com",
       "startDate": "2015-02-11",
-      "summary": "Over the three days leading up to Valentine's Day 2015, I developed an app that allows 'secret admirers' to share their feelings, and provide a mechanism through which they could be matched with the recipient only if the feeling is mututal.",
+      "summary": "Over the three days leading up to Valentine's Day 2015, I developed an app that allows 'secret admirers' to share their feelings, and provide a mechanism through which they could be matched with the recipient only if the feeling is mutual.",
       "highlights": [
         "Concepted, designed, and developed a production-ready app in three days",
         "Used Backbone, RequireJS, Node, and MongoDB to create a full-stack JS app",
