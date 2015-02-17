@@ -6,7 +6,7 @@
     "email": "b@ferio.li",
     "phone": "(505) 205-8452",
     "website": "http://brandonferioli.com",
-    "summary": "I live for the thrill of developing engaging web products and experiences. My core strengths are in UI/UX development, project management, and team leadership. I love any opportunity to have a significant hand and voice in shaping an idea into a fully formed product.",
+    "summary": "I live for the thrill of developing engaging web products and experiences. Having a creative background paired with technical skills in JavaScript, HTML5 and CSS3, I find that I thrive most in roles that allow me to bridge the gap between design and development. I love taking ownership of the user experience and ensuring that every interaction truly is delightful.",
     "location": {
       "address": "2 Mead Street, Apt 1",
       "city": "Allston",
@@ -32,18 +32,6 @@
   },
   "work": [
     {
-      "company": "SecretFancy",
-      "position": "Founder, Developer",
-      "website": "http://secretfancy.com",
-      "startDate": "2015-02-11",
-      "summary": "Over the three days leading up to Valentine's Day 2015, I developed an app that allows 'secret admirers' to share their feelings, and provide a mechanism through which they could be matched with the recipient only if the feeling is mutual.",
-      "highlights": [
-        "Concepted, designed, and developed a production-ready app in three days",
-        "Used Backbone, RequireJS, Node, and MongoDB to create a full-stack JS app",
-        "Leveraged SendGrid and Twilio to send messages via email and SMS"
-      ]
-    },
-    {
       "company": "General Assembly",
       "position": "Expert In Residence",
       "website": "http://generalassemb.ly",
@@ -63,9 +51,9 @@
       "endDate": "2014-11-20",
       "summary": "As a front-end engineer on the HubSpot Reporting product, I had the opportunity to develop engaging data-driven experiences to help the customer understand and visualize their marketing outcomes.",
       "highlights": [
-        "Use CoffeeScript and Backbone.js to develop front-end components for Reports product",
-        "Create exceptional user interfaces and experiences using HTML5, CSS3 and Sass",
-        "Collaborate with product manager, tech lead, and other team members to identify and tackle goals"
+        "Developed reporting and data analytics tools using CoffeeScript, Backbone.js, RequireJS, and Highcharts",
+        "Improved existing user flows and UI components using HTML5, CSS3, and Sass",
+        "Collaborated with designer and product manager to concept and prototype new features and experiences"
       ]
     },
     {
@@ -76,9 +64,10 @@
       "endDate": "2014-07-25",
       "summary": "As the sole front-end developer on the MyFonts team, I had the opportunity to take ownership of a variety of front-end projects on a large scale e-commerce site with $20M+ annual revenue.",
       "highlights": [
-        "Developed and maintained major site components using JS, PHP and Smarty templates",
+        "Developed and maintained major site components using JavaScript, Sass, PHP and Smarty templates",
         "Developed JavaScript-based tool for previewing live webfonts",
-        "Developed a JavaScript bin-packing algorithm to build a staggered image tile layout",
+        "Developed a JavaScript bin-packing module to create staggered image tile layouts",
+        "Implemented SkyFonts remote font installation and iOS font installation",
         "Implemented Backbone.js based shopping cart"
       ]
     },
@@ -157,9 +146,12 @@
       "level": "Master",
       "keywords": [
         "HTML5/CSS3",
+        "Sass",
         "JavaScript",
+        "CoffeeScript",
         "jQuery",
         "Backbone",
+        "Handlebars",
         "RequireJS",
         "Node.js",
         "Git & GitHub",
