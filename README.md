@@ -5,7 +5,7 @@
 ------
 
 ### About
-I live for the thrill of developing engaging web products and experiences. My core strengths are in UI/UX development, project management, and team leadership. I love any opportunity to have a significant hand and voice in shaping an idea into a fully formed product.
+I live for the thrill of developing engaging web products and experiences. Having a creative background paired with technical skills in JavaScript, HTML5 and CSS3, I find that I thrive most in roles that allow me to bridge the gap between design and development. I love taking ownership of the user experience and ensuring that every interaction truly is delightful.
 
 
 ### Work
@@ -39,11 +39,11 @@ As the sole front-end developer on the MyFonts team, I had the opportunity to ta
 
 __Highlights:__
 
-* Developed and maintained major site components using JS, PHP and Smarty templates
+* Developed and maintained major site components using JavaScript, Sass, PHP and Smarty templates
 * Developed JavaScript-based tool for previewing live webfonts
-* Developed a JavaScript bin-packing algorithm to build a staggered image tile layout
-* Implemented Backbone.js based shopping cart
+* Developed a JavaScript bin-packing module to create staggered image tile layouts
 * Implemented SkyFonts remote font installation and iOS font installation
+* Implemented Backbone.js based shopping cart
 
 
 ####[Tuatara](http://gilapad.com) - UI Developer (May 2012 — March 2013)
@@ -52,7 +52,7 @@ As the UI Developer for Tuatara's flagship GilaPad e-textbook and learning platf
 
 __Highlights:__
 
-* Developed e-reader and notepad UI components using JS and Handlebars templates
+* Developed e-reader and notepad UI components using JavaScript, CSS3, and Handlebars templates
 * Developed rich WYSIWYG text editor for notepad component
 * Developed e-book store UI using Ember.js and Handlebars templates
 
@@ -105,9 +105,12 @@ My skills are largely self-taught and have been enhanced by my experience in the
 ### Skills
 
 * HTML5/CSS3
+* Sass
 * JavaScript
+* CoffeeScript
 * jQuery
 * Backbone
+* Handlebars
 * RequireJS
 * Node.js
 * Git & GitHub
