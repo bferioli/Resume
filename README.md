@@ -44,6 +44,7 @@ __Highlights:__
 * Developed JavaScript-based tool for previewing live webfonts
 * Developed a JavaScript bin-packing algorithm to build a staggered image tile layout
 * Implemented Backbone.js based shopping cart
+* Implemented SkyFonts remote font installation and iOS font installation.
 
 
 ####[Tuatara](http://gilapad.com) - UI Developer (May 2012 — March 2013)
