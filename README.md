@@ -14,15 +14,6 @@ I live for the thrill of developing engaging web products and experiences. My co
 
 ### Work
 
-####[SecretFancy](http://secretfancy.com) - Founder, Developer (Feb 2015 - Present)
-
-Over the three days leading up to Valentine's Day 2015, I developed an app that allows 'secret admirers' to share their feelings, and provide a mechanism through which they could be matched with the recipient only if the feeling is mutual.
-
-__Highlights:__
-* Concepted, designed, and developed a production-ready app in three days
-* Used Backbone, RequireJS, Node, and MongoDB to create a full-stack JS app
-* Leveraged SendGrid and Twilio to send messages via email and SMS
-
 
 ####[General Assembly](http://generalassemb.ly) - Expert In Residence (Jan 2015 - Present)
 
