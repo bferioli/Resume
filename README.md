@@ -1,80 +1,79 @@
 # Brandon Ferioli - UI/UX Developer
 
-(505) 205-8452 - 
-[b@ferio.li](mailto:b@ferio.li) - 
-[Github](https://github.com/bferioli) - 
-[Twitter](twitter.com/bferioli) - 
-[LinkedIn](linkedin.com/pub/brandon-ferioli/27/182/891/en)
+(505) 205-8452 - [b@ferio.li](mailto:b@ferio.li) - [Github](https://github.com/bferioli) - [Twitter](twitter.com/bferioli) - [LinkedIn](linkedin.com/pub/brandon-ferioli/27/182/891/en)
 
 ------
 
 ### About
-I live for the thrill of developing engaging web products and experiences. My core strengths are in UI/UX development, project management, and team leadership. I love any opportunity to have a significant hand and voice in shaping an idea into a fully formed product.
+I live for the thrill of developing engaging web products and experiences. Having a creative background paired with technical skills in JavaScript, HTML5 and CSS3, I find that I thrive most in roles that allow me to bridge the gap between design and development. I love taking ownership of the user experience and ensuring that every interaction truly is delightful.
 
 
 ### Work
 
-####[SecretFancy](http://secretfancy.com) - Founder, Developer (Feb 2015 - Present)
-
-Over the three days leading up to Valentine's Day 2015, I developed an app that allows 'secret admirers' to share their feelings, and provide a mechanism through which they could be matched with the recipient only if the feeling is mutual.
-
-__Highlights:__
-* Concepted, designed, and developed a production-ready app in three days
-* Used Backbone, RequireJS, Node, and MongoDB to create a full-stack JS app
-* Leveraged SendGrid and Twilio to send messages via email and SMS
-* 
 
 ####[General Assembly](http://generalassemb.ly) - Expert In Residence (Jan 2015 - Present)
 
-As an expert in residence for General Assembly's popular FEWD (Front End Web Development) course, I have the opportunity to work hands-on with students to foster engagement and help them acheive mastery.
+As an expert in residence for General Assembly's popular FEWD (Front End Web Development) course, I have the opportunity to work hands-on with students to foster engagement and help them achieve mastery.
 
 __Highlights:__
+
 * Provided hands-on support and guidance to students
 * Fostered and maintained ongoing relationships with students
 * Facilitated the distribution and assessment of course assignments and materials
+
 
 ####[HubSpot](http://hubspot.com) - Front-end Developer (Aug 2014 - Nov 2014)
 
 As a front-end engineer on the HubSpot Reporting product, I had the opportunity to develop engaging data-driven experiences to help the customer understand and visualize their marketing outcomes.
 
 __Highlights:__
-* Use CoffeeScript and Backbone.js to develop front-end components for Reports product
-* Create exceptional user interfaces and experiences using HTML5, CSS3 and Sass
-* Collaborate with product manager, tech lead, and other team members to identify and tackle goals
+
+* Developed reporting and data analytics tools using CoffeeScript, Backbone.js, RequireJS, and Highcharts
+* Improved existing user flows and UI components using HTML5, CSS3, and Sass
+* Collaborated with designer and product manager to concept and prototype new features and experiences
+
 
 ####[MyFonts](http://myfonts.com) - Front-end Developer (Apr 2013 - Jul 2014)
 
 As the sole front-end developer on the MyFonts team, I had the opportunity to take ownership of a variety of front-end projects on a large scale e-commerce site with $20M+ annual revenue.
 
 __Highlights:__
-* Developed and maintained major site components using JS, PHP and Smarty templates
+
+* Developed and maintained major site components using JavaScript, Sass, PHP and Smarty templates
 * Developed JavaScript-based tool for previewing live webfonts
-* Developed a JavaScript bin-packing algorithm to build a staggered image tile layout
+* Developed a JavaScript bin-packing module to create staggered image tile layouts
+* Implemented SkyFonts remote font installation and iOS font installation
 * Implemented Backbone.js based shopping cart
+
 
 ####[Tuatara](http://gilapad.com) - UI Developer (May 2012 — March 2013)
 
 As the UI Developer for Tuatara's flagship GilaPad e-textbook and learning platform, I was able to bridge the gap between design and engineering and create engaging reading and note-taking experiences.
 
 __Highlights:__
-* Developed e-reader and notepad UI components using JS and Handlebars templates
+
+* Developed e-reader and notepad UI components using JavaScript, CSS3, and Handlebars templates
 * Developed rich WYSIWYG text editor for notepad component
 * Developed e-book store UI using Ember.js and Handlebars templates
+
 
 ####[SantaFe.com](http://santafe.com) - UI Developer (Oct 2011 - May 2012)
 
 As one of two front-end developers on the SantaFe.com, I had the opportunity to develop information rich experiences for the Santa Fe, New Mexico based city tourism website.
 
 __Highlights:__
+
 * Designed UI wireframes and mockups
 * Developed ExpressionEngine templates
 * Created jQuery Mobile based mobile web app
+
 
 ####[Ipsum Creative](http://ipsumcreative.com) - Founder, Principal Front-end Developer (Jul 2007 - Oct 2011)
 
 As the founder and principal front-end developer for a small web design and development firm, I had the opportunity to manage projects collaborate with team members to develop web products for a variety of local clients.
 
 __Highlights:__
+
 * Developed sites and apps using HTML, CSS, JavaScript and jQuery
 * Developed CMS-based sites using WordPress, ExpressionEngine
 * Facilitated all communications and presentations with clients
@@ -106,9 +105,12 @@ My skills are largely self-taught and have been enhanced by my experience in the
 ### Skills
 
 * HTML5/CSS3
+* Sass
 * JavaScript
+* CoffeeScript
 * jQuery
 * Backbone
+* Handlebars
 * RequireJS
 * Node.js
 * Git & GitHub
