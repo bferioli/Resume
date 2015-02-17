@@ -1,10 +1,6 @@
-# Brandon Ferioli - UI/UX Developer
+## Brandon Ferioli - UI/UX Developer
 
-(505) 205-8452 - 
-[b@ferio.li](mailto:b@ferio.li) - 
-[Github](https://github.com/bferioli) - 
-[Twitter](twitter.com/bferioli) - 
-[LinkedIn](linkedin.com/pub/brandon-ferioli/27/182/891/en)
+(505) 205-8452 - [b@ferio.li](mailto:b@ferio.li) - [Github](https://github.com/bferioli) - [Twitter](twitter.com/bferioli) - [LinkedIn](linkedin.com/pub/brandon-ferioli/27/182/891/en)
 
 ------
 
@@ -20,6 +16,7 @@ I live for the thrill of developing engaging web products and experiences. My co
 As an expert in residence for General Assembly's popular FEWD (Front End Web Development) course, I have the opportunity to work hands-on with students to foster engagement and help them achieve mastery.
 
 __Highlights:__
+
 * Provided hands-on support and guidance to students
 * Fostered and maintained ongoing relationships with students
 * Facilitated the distribution and assessment of course assignments and materials
@@ -30,9 +27,10 @@ __Highlights:__
 As a front-end engineer on the HubSpot Reporting product, I had the opportunity to develop engaging data-driven experiences to help the customer understand and visualize their marketing outcomes.
 
 __Highlights:__
-* Use CoffeeScript and Backbone.js to develop front-end components for Reports product
-* Create exceptional user interfaces and experiences using HTML5, CSS3 and Sass
-* Collaborate with product manager, tech lead, and other team members to identify and tackle goals
+
+* Developed reporting and data analytics tools using CoffeeScript, Backbone.js, RequireJS, and Highcharts
+* Improved existing user flows and UI components using HTML5, CSS3, and Sass
+* Collaborated with designer and product manager to concept and prototype new features and experiences
 
 
 ####[MyFonts](http://myfonts.com) - Front-end Developer (Apr 2013 - Jul 2014)
@@ -40,6 +38,7 @@ __Highlights:__
 As the sole front-end developer on the MyFonts team, I had the opportunity to take ownership of a variety of front-end projects on a large scale e-commerce site with $20M+ annual revenue.
 
 __Highlights:__
+
 * Developed and maintained major site components using JS, PHP and Smarty templates
 * Developed JavaScript-based tool for previewing live webfonts
 * Developed a JavaScript bin-packing algorithm to build a staggered image tile layout
@@ -52,6 +51,7 @@ __Highlights:__
 As the UI Developer for Tuatara's flagship GilaPad e-textbook and learning platform, I was able to bridge the gap between design and engineering and create engaging reading and note-taking experiences.
 
 __Highlights:__
+
 * Developed e-reader and notepad UI components using JS and Handlebars templates
 * Developed rich WYSIWYG text editor for notepad component
 * Developed e-book store UI using Ember.js and Handlebars templates
@@ -62,6 +62,7 @@ __Highlights:__
 As one of two front-end developers on the SantaFe.com, I had the opportunity to develop information rich experiences for the Santa Fe, New Mexico based city tourism website.
 
 __Highlights:__
+
 * Designed UI wireframes and mockups
 * Developed ExpressionEngine templates
 * Created jQuery Mobile based mobile web app
@@ -72,6 +73,7 @@ __Highlights:__
 As the founder and principal front-end developer for a small web design and development firm, I had the opportunity to manage projects collaborate with team members to develop web products for a variety of local clients.
 
 __Highlights:__
+
 * Developed sites and apps using HTML, CSS, JavaScript and jQuery
 * Developed CMS-based sites using WordPress, ExpressionEngine
 * Facilitated all communications and presentations with clients
