@@ -1,4 +1,4 @@
-## Brandon Ferioli - UI/UX Developer
+# Brandon Ferioli - UI/UX Developer
 
 (505) 205-8452 - [b@ferio.li](mailto:b@ferio.li) - [Github](https://github.com/bferioli) - [Twitter](twitter.com/bferioli) - [LinkedIn](linkedin.com/pub/brandon-ferioli/27/182/891/en)
 
