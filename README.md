@@ -17,7 +17,7 @@ I live for the thrill of developing engaging web products and experiences. My co
 
 ####[General Assembly](http://generalassemb.ly) - Expert In Residence (Jan 2015 - Present)
 
-As an expert in residence for General Assembly's popular FEWD (Front End Web Development) course, I have the opportunity to work hands-on with students to foster engagement and help them acheive mastery.
+As an expert in residence for General Assembly's popular FEWD (Front End Web Development) course, I have the opportunity to work hands-on with students to foster engagement and help them achieve mastery.
 
 __Highlights:__
 * Provided hands-on support and guidance to students
